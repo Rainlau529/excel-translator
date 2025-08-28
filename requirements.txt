@@ -1,5 +1,5 @@
 Flask==2.3.3
-pandas==2.0.3
+openpyxl==3.1.2
 requests==2.31.0
-openpyxl==3.1.2  # 用于处理Excel文件
-gunicorn==21.2.0  # WSGI服务器，用于部署
+gunicorn==21.2.0
+Werkzeug==2.3.7
